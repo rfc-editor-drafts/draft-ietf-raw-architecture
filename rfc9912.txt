@@ -4,7 +4,7 @@
 
 Internet Engineering Task Force (IETF)                   P. Thubert, Ed.
 Request for Comments: 9912                                   Independent
-Category: Informational                                    February 2026
+Category: Informational                                       April 2026
 ISSN: 2070-1721
 
 

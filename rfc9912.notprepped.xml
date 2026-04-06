@@ -25,7 +25,7 @@
     </address>
   </author>
 
-  <date month="February" year="2026"/>
+  <date month="April" year="2026"/>
   <area>RTG</area>
   <workgroup>detnet</workgroup>
 
@@ -2208,4 +2208,3 @@ IESG State:  IESG Evaluation::AD Followup as of 09/18/25
     </section>
   </back>
 </rfc>
-
