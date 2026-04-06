@@ -6,7 +6,7 @@
   <front>
     <title abbrev="RAW Architecture">Reliable and Available Wireless (RAW) Architecture</title>
     <seriesInfo name="RFC" value="9912" stream="IETF"/>
-    <author initials="P" surname="Thubert" fullname="Pascal Thubert" role="editor">
+    <author initials="P." surname="Thubert" fullname="Pascal Thubert" role="editor">
       <organization showOnFrontPage="true">Independent</organization>
       <address>
         <postal>
